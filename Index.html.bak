@@ -5,18 +5,29 @@
 <meta name="description" content="Une première page">
 <meta name="keywords" content="html tutorial template">
 </head>
+<H1> 1
 <body>
 <br>...\...^__^
 <br>....\..(oo)\_______
 <br>.......(__)\.......)\/\
 <br>.............||----w |
 <br>.............||..........||
+</H1>
+<H2> Look, look </H2>
 <body>
+<H3>
 <br>...\...^__^
 <br>....\..(oo)\_______
 <br>.......(__)\.......)\/\
 <br>.............||----w |
 <br>.............||..........||
+</H3>
+</body>
+<p> 
+<br> Autant en emporte le vent </br>
+<br> Et dansent les feuilles mortes </br>
+<br> A notre coeur <i><b>automnal</b></i> </br>
+</p>
 <body>
 <br>...\...^__^
 <br>....\..(oo)\_______
